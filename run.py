@@ -1,0 +1,2 @@
+import obfuscate
+obfuscate.main()
