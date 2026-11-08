@@ -33,5 +33,10 @@ git clone https://github.com/RyotaXD/python-obfuscator
 # 5. Masuk ke dalam direktori script
 cd python-obfuscator
 
-# 6. Jalankan script
+# 6. Build script
+python setup.py build_ext --inplace
+
+# 7. Run script
 python run.py
+
+
